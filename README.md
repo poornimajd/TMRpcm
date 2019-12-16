@@ -4,7 +4,7 @@ Arduino library for asynchronous playback of PCM/WAV files direct from SD card. 
 
 
 
-Arduino library for asynchronous playback of PCM/WAV files direct from SD card
+
 
 Utilizes standard Arduino SD library, SD card and output device (Speaker, Headphones, Amplifier, etc)
 
